@@ -2,4 +2,7 @@
 
 Tips:
 
-Utilizar el operador modulo (%) para determinar si un número es divisor de otro.*/app.js
+Utilizar el operador modulo (%) para determinar si un número es divisor de otro.*/
+function numeroPrimo(num){
+    
+}
